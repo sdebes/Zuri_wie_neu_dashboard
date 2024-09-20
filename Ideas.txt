@@ -1,0 +1,25 @@
+To Do:
+
+Sort by earliest non-fixed problems first. This dashboard is a tool to improve
+the quality of the service, so it would be beneficial to have a list of the 
+problems that have gone unfixed the longest.
+
+Make titles for report, response, and image
+
+
+Ideas:
+
+Split into Kreise. What are the differences between Kreise? Response time, percentage of reports being x 
+
+Look into response time
+
+Look at graffiti (only crime column)
+
+Make word clouds for each service type
+
+Interactive Timeline of Major Events
+
+Create an interactive timeline that plots major events (e.g., spikes in certain problem types, resolution of high-profile issues, etc.).
+This can provide context around why certain trends or patterns may have occurred (e.g., weather events, public holidays, etc.).
+
+Group reports by week or months in timeseries plot 
